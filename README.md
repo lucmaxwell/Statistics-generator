@@ -1,7 +1,6 @@
 
 ENGLISH (Scroll down for French)
 
-If you have any questions after reading this manual or you find a spelling mistake or error in the program please text or call (text prefered) Luc Maxwell at (204) 803-8516 or email Luc Maxwell at lucmaxwell8@gmail.com
 --------------------------------------------------------------------------------------------------------
 
 *** Note on terminology ***
