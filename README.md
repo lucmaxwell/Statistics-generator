@@ -41,8 +41,6 @@ Step 5: Open the excel spreadsheet. The data you entered will be displayed by we
 
 It is possible and easy to delete data no longer needed to be stored in the excel spreadsheet. To do so, highlight the column(s) of data you no longer require including the column title(s) with the date and all of the values stores in the column(s). Then, click delete. The selected data should no longer appear in the excel spreadsheet. Upon re-running the program, the computer will use the now deleted, blank columns to add new dates which it will eventually fill with data. After deleting entire columns in excel, you should save the excel spreadsheet. (This is the only time should should save the exccel spreadsheet)
 
-If you have any questions after reading this manual or you find a spelling mistake or error in the program please text or call (text prefered) Luc Maxwell at (204) 803-8516 or email Luc Maxwell at lucmaxwell8@gmail.com
-
 
 
 
@@ -55,7 +53,6 @@ If you have any questions after reading this manual or you find a spelling mista
 
 FRANÇAIS (Anglais ci-dessus)
 
-Si vous avez des questions après avoir lu ce manuel ou si vous trouvez une faute d'orthographe ou une erreur dans le programme, veuillez envoyer un SMS ou appeler (texte préféré) Luc Maxwell au (204) 803-8516 ou envoyer un courriel à Luc Maxwell à lucmaxwell8@gmail.com
 --------------------------------------------------------------------------------------------------------
 
 ***Note sur la terminologie***
@@ -96,4 +93,3 @@ Un bref aperçu des boutons du programme:
 
 Il est possible et facile de supprimer des données qui n'ont plus besoin d'être stockées dans la feuille de calcul Excel. Pour ce faire, mettez en surbrillance la ou les colonnes de données dont vous n'avez plus besoin, y compris le (s) titre (s) de colonne avec la date et toutes les valeurs stockées dans la (les) colonne (s). Ensuite, cliquez sur supprimer. Les données sélectionnées ne doivent plus apparaître dans la feuille de calcul Excel. Lors de la réexécution du programme, l'ordinateur utilisera les colonnes vides maintenant supprimées pour ajouter de nouvelles dates qu'il remplira éventuellement avec des données. Après avoir supprimé des colonnes entières dans Excel, vous devez enregistrer la feuille de calcul Excel. (C'est le seul moment où vous devriez enregistrer la feuille de calcul exccel)
 
-Si vous avez des questions après avoir lu ce manuel ou si vous trouvez une faute d'orthographe ou une erreur dans le programme, veuillez envoyer un SMS ou appeler (texte préféré) Luc Maxwell au (204) 803-8516 ou envoyer un courriel à Luc Maxwell à lucmaxwell8@gmail.com
